@@ -1,0 +1,1 @@
+export const InvoiceRecordContractAddress = "0x99a8Dff1f27889dAa84D7b7185246a0F58371bc7"
